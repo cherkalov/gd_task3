@@ -3,9 +3,11 @@ html, body {
 }
 
 #root {
+  position: relative;
   height: inherit;
 }
 
 .map {
-  height: 100%;
+  position: relative;
+  height: inherit;
 }

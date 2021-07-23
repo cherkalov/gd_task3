@@ -17,7 +17,7 @@ L.Marker.prototype.options.icon = defaultIcon;
 const data = [
 	{latitude: 53.720976, longitude: 91.44242300000001, name: "Абакан", value: 317593},
 	{latitude: 64.539304, longitude: 40.518735, name: "Архангельск", value: 514828},
-	{latitude: 71.430564, longitude: 51.128422, name: "Астана", value: 252037},
+	{latitude: 51.128422, longitude: 71.430564, name: "Нур-султан", value: 252037},
 	{latitude: 46.347869, longitude: 48.033574, name: "Астрахань", value: 933445},
 	{latitude: 53.356132, longitude: 83.74961999999999, name: "Барнаул", value: 633893},
 	{latitude: 50.597467, longitude: 36.588849, name: "Белгород", value: 360378},
